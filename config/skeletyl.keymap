@@ -17,7 +17,7 @@
         lower {
             bindings = <
 &kp N1            &kp N2  &kp N3  &kp N4  &kp N5    &kp N6     &kp N7     &kp N8            &kp N0               &kp N9
-&kp LEFT_SHIFT    &trans  &trans  &trans  &trans    &trans     &trans     &trans            &trans               &kp SQT
+&kp LEFT_SHIFT    &trans  &trans  &trans  &trans    &trans     &trans     &trans            &kp SQT              &trans
 &kp GRAVE         &trans  &trans  &trans  &trans    &kp MINUS  &kp EQUAL  &kp LEFT_BRACKET  &kp NON_US_BACKSLASH &kp RIGHT_BRACKET
                           &trans  &trans  &trans    &trans     &trans     &trans
             >;
